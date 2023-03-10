@@ -33,4 +33,4 @@ const encodedImage = posEncoder
     .encode();
 ```
 
-An example working with [Adafruit's Tiny Thermal printer](https://www.adafruit.com/product/2751#:~:text=Tiny%20Thermal%20Receipt%20Printer%20%2D%20TTL,fun%20DIY%20electronics%20and%20kits) can be found in the [example.js](./example.js) folder.
+An example working with [Adafruit's Tiny Thermal printer](https://www.adafruit.com/product/2751#:~:text=Tiny%20Thermal%20Receipt%20Printer%20%2D%20TTL,fun%20DIY%20electronics%20and%20kits) can be found in the [example](./example) folder.
