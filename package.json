@@ -1,6 +1,7 @@
 {
     "name": "escposencoder.js",
     "version": "1.0.0",
+    "author": "Charlie Gerard - @devdevcharlie",
     "source": "src/escposencoder.js",
     "main": "dist/main.js",
     "module": "dist/module.js",

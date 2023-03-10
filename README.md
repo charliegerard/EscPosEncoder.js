@@ -7,13 +7,13 @@ Browser-based version of the awesome Node.js module [EscPosEncoder](https://gith
 You can import it as a script tag or use an import statement:
 
 ```html
-<script src="escposencoder.js" type="module"></script>
+<script src="https://raw.githubusercontent.com/charliegerard/EscPosEncoder.js/main/dist/module.js" type="module"></script>
 ```
 
 or 
 
 ```js
-import EscPosEncoder from "./escposencoder.js";
+import EscPosEncoder from "https://raw.githubusercontent.com/charliegerard/EscPosEncoder.js/main/dist/module.js";
 ```
 
 ## Usage
