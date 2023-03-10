@@ -1,4 +1,4 @@
-import EscPosEncoder from "../escposencoder.js";
+import EscPosEncoder from "../dist/module.js";
 
 window.onload = () => {
   const button = document.querySelector("button");

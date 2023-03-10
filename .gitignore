@@ -1,3 +1,4 @@
 .DS_Store
 .git
 .parcel-cache
+node_modules
